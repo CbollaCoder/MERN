@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://ame123:GlaciarDelicia123@devconnector.ylnma.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://ame123:GlaciarDelicia123@devconnector.ylnma.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
